@@ -32,7 +32,7 @@ Wiki: [https://github.com/vontell/EngLang/wiki](https://github.com/vontell/EngLa
 
 Issues: [https://github.com/vontell/EngLang/issues](https://github.com/vontell/EngLang/issues)
 
-##Key Terminology
+## Key Terminology
 There are some key terms used within the documentation of EngLang that is considered unconventional. Therefore, below is a list of terminology that may be helpful:
 
 
@@ -43,6 +43,11 @@ There are some key terms used within the documentation of EngLang that is consid
 * Chapter -
 * Paragraph - 
 * Alias - 
+
+## Running the code
+There are a few dependencies that must be installed before using the library. Run the commands below to make sure that everything is installed correctly:
+1. Install packages: `sudo pip3 install -r requirements.txt`
+2. Install nltk resources: `python3 setup.py` -> `d` to download -> `all` to download all packages
 
 ## License
 The MIT License (MIT)

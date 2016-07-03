@@ -14,28 +14,28 @@ class plogger(object):
     
     @staticmethod
     def warn(message):
-        print bcolors.WARNING + message + bcolors.ENDC
+        print(bcolors.WARNING + message + bcolors.ENDC)
         
     @staticmethod
     def head(message):
-        print bcolors.HEADER + message + bcolors.ENDC
+        print(bcolors.HEADER + message + bcolors.ENDC)
         
     @staticmethod
     def okblue(message):
-        print bcolors.OKBLUE + message + bcolors.ENDC
+        print(bcolors.OKBLUE + message + bcolors.ENDC)
         
     @staticmethod
     def okgreen(message):
-        print bcolors.OKGREEN + message + bcolors.ENDC
+        print(bcolors.OKGREEN + message + bcolors.ENDC)
         
     @staticmethod
     def fail(message):
-        print bcolors.FAIL + message + bcolors.ENDC
+        print(bcolors.FAIL + message + bcolors.ENDC)
         
     @staticmethod
     def bold(message):
-        print bcolors.BOLD + message + bcolors.ENDC
+        print(bcolors.BOLD + message + bcolors.ENDC)
         
     @staticmethod
     def underline(message):
-        print bcolors.UNDERLINE + message + bcolors.ENDC
+        print(bcolors.UNDERLINE + message + bcolors.ENDC)
