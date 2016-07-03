@@ -1,4 +1,4 @@
-# EngLang
+# EngLang [![Build Status](https://travis-ci.org/EngLang/EL-Python.svg?branch=structuring)](https://travis-ci.org/EngLang/EL-Python)
 ![EngLang](http://s31.postimg.org/d7mshul0r/master.png "EngLang")
 
 ##Introduction
