@@ -1,0 +1,1 @@
+import resources.install_resources
